@@ -1,19 +1,19 @@
 {
-  "dev": {
+  "staging": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-awstutorialwithreact-dev-25858-authRole",
-      "UnauthRoleArn": "arn:aws:iam::153634247902:role/amplify-awstutorialwithreact-dev-25858-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::153634247902:role/amplify-awstutorialwithreact-dev-25858-authRole",
+      "AuthRoleName": "amplify-amplify846d1f89b5a64-staging-174837-authRole",
+      "UnauthRoleArn": "arn:aws:iam::153634247902:role/amplify-amplify846d1f89b5a64-staging-174837-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::153634247902:role/amplify-amplify846d1f89b5a64-staging-174837-authRole",
       "Region": "ap-northeast-1",
-      "DeploymentBucketName": "amplify-awstutorialwithreact-dev-25858-deployment",
-      "UnauthRoleName": "amplify-awstutorialwithreact-dev-25858-unauthRole",
-      "StackName": "amplify-awstutorialwithreact-dev-25858",
-      "StackId": "arn:aws:cloudformation:ap-northeast-1:153634247902:stack/amplify-awstutorialwithreact-dev-25858/39c4efb0-48f1-11ee-a396-0e15aa6dd85f",
-      "AmplifyAppId": "drmtli48kgsew"
+      "DeploymentBucketName": "amplify-amplify846d1f89b5a64-staging-174837-deployment",
+      "UnauthRoleName": "amplify-amplify846d1f89b5a64-staging-174837-unauthRole",
+      "StackName": "amplify-amplify846d1f89b5a64-staging-174837",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:153634247902:stack/amplify-amplify846d1f89b5a64-staging-174837/c75f76d0-48ef-11ee-b495-0a4ba3b58dad",
+      "AmplifyAppId": "d4uoixzmee26h"
     },
     "categories": {
       "auth": {
-        "awstutorialwithreactdb0626bc": {}
+        "awstutorialwithreact7cfd10b3": {}
       }
     }
   }
